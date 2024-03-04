@@ -1,0 +1,14 @@
+C:\Users\Carlos\Desktop\Programación\charnteEV3\bin\Debug\net7.0\charnteEV3.exe
+C:\Users\Carlos\Desktop\Programación\charnteEV3\bin\Debug\net7.0\charnteEV3.deps.json
+C:\Users\Carlos\Desktop\Programación\charnteEV3\bin\Debug\net7.0\charnteEV3.runtimeconfig.json
+C:\Users\Carlos\Desktop\Programación\charnteEV3\bin\Debug\net7.0\charnteEV3.dll
+C:\Users\Carlos\Desktop\Programación\charnteEV3\bin\Debug\net7.0\charnteEV3.pdb
+C:\Users\Carlos\Desktop\Programación\charnteEV3\obj\Debug\net7.0\charnteEV3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\Programación\charnteEV3\obj\Debug\net7.0\charnteEV3.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Programación\charnteEV3\obj\Debug\net7.0\charnteEV3.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Programación\charnteEV3\obj\Debug\net7.0\charnteEV3.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Programación\charnteEV3\obj\Debug\net7.0\charnteEV3.dll
+C:\Users\Carlos\Desktop\Programación\charnteEV3\obj\Debug\net7.0\refint\charnteEV3.dll
+C:\Users\Carlos\Desktop\Programación\charnteEV3\obj\Debug\net7.0\charnteEV3.pdb
+C:\Users\Carlos\Desktop\Programación\charnteEV3\obj\Debug\net7.0\charnteEV3.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\Programación\charnteEV3\obj\Debug\net7.0\ref\charnteEV3.dll
